@@ -1,0 +1,12 @@
+.paragraph-one{
+  color: red;
+  font-size: 40px;
+  font-weight: 900;
+  font-family: monospace;
+}
+.paragraph-two{
+color: green;
+font-size: 30px;
+font-family: sans-serif;
+font-weight: 500;
+}
